@@ -26,9 +26,15 @@
         * [批量发送](/ses/guide/send/7105)
     * [数据统计](/ses/guide/7201)
     * [投递回应](/ses/guide/7203)
+* SMTP 文档
+    * [SMTP 发信指南](/ses/smtp/8001)
+* Webhook 文档
+    * [Webhook 文档](/ses/webhook/8201)
 * 常见问题
     * [入门与配置](/ses/faq/9001)
     * [发送与限制](/ses/faq/9003)
     * [域名与模板](/ses/faq/9005)
     * [投递与回调](/ses/faq/9007)
     * [安全与送达率](/ses/faq/9009)
+* 相关协议
+    * [UCloud 邮件推送服务协议](/ses/agreement/10001)
