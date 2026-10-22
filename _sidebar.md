@@ -14,12 +14,9 @@
     * [邮件配置](/ses/quickstart/5001)
     * [邮件发送](/ses/quickstart/5003)
     * [发信信誉说明](/ses/quickstart/5005)
-* 计费规则
-    * [计费概述](/ses/guide/billing/7301)
-    * [免费测试额度](/ses/guide/billing/7303)
-    * [按量后付费](/ses/guide/billing/7305)
-    * [SES 资源包](/ses/guide/billing/7307)
-    * [计费常见问题](/ses/guide/billing/7309)
+* 计费说明
+    * [计费规则](/ses/guide/billing/7301)
+    * [常见问题](/ses/guide/billing/7309)
 * 控制台指南
     * 邮件配置
         * [发信域名管理](/ses/guide/config/7001)
